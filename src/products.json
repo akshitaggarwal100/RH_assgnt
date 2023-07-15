@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Watch",
+        "image": "https//www.apple.com/newsroom/images/product/watch/standard/Apple_delivers-apple-watch-series-6_09152020.jpg.news_app_ed.jpg",
+        "desc": "Apple Watch Ultra has a water resistance rating of 100 metres under ISO standard 22810. It may be used for recreational scuba diving."
+    },
+    {
+        "id": 2,
+        "name": "Phone",
+        "image": "https://m.economictimes.com/thumb/msid-100795850,width-1200,height-900,resizemode-4,imgsize-20586/marbleodyssey_productstill_03_preview-1.jpg",
+        "desc": "OnePlus 11 5G, The Shape of Power. Equipped with Snapdragon 8 Gen 2, up to 16GB RAM, hardware-assisted 3rd Gen Hasselblad Camera for Mobile, 100W SUPERVOOC charging"
+    },
+    {
+        "id": 3,
+        "name": "Laptop",
+        "image": "https://dlcdnrog.asus.com/rog/media/1674705497799.webp",
+        "desc": "ASUS makes the best hardware for PC gaming, eSports, and overclocking. Our innovations deliver top performance and premium experiences for everyone."
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "image": "https://cdn11.bigcommerce.com/s-fa8ae9fe8j/content/pdp_images/7623_14526.jpg",
+        "desc": "Premium Sound Quality. Immersive Bass. 100% Original. Skullcandy headphones for an elevated listening experience. Free Shipping. Exciting Colors. Long Lasting Battery Life. Types: True Wireless Earphones, Active Noise Cancellation, Over-Ear Headphones."
+    },
+    {
+        "id": 5,
+        "name": "Monitor",
+        "image": "https://www.lgnewsroom.com/wp-content/uploads/2020/07/LG-UltraGear_00-600x399.jpg",
+        "desc": "LG OLED TVs are engineered for innovation and designed for beauty that Upgrades your home. A billion shades of Colour for impeccable picture and Dolby Atmos for Enhanced Sounds."
+    }
+]
